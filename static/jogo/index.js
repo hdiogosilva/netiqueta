@@ -1601,6 +1601,8 @@ function asyncLoad(url, onload, onerror, noRunDep) {
  if (dep) addRunDependency(dep);
 }
 
+if (file.substr(-5) === '.wasm' || file.substr(-4) === '.pck') { file += '.gz'; var resolve_orig = resolve; resolve = function(xhr) { return resolve_orig(xhr.responseURL.substr(-3) === '.gz' ? { response: pako.inflate(xhr.response), responseType: xhr.responseType, responseURL: xhr.responseURL, status: xhr.status, statusText: xhr.statusText } : xhr); }; }
+
 var IDBFS = {
  dbs: {},
  indexedDB: () => {
