@@ -35,6 +35,11 @@
   </p>
 
   {{ with .Site.Params.homepage.contact }}
+  <a
+    href="/jogo/index.html"
+    rel="noopener noreferrer"
+    class="px-6 py-4 rounded-full font-semibold text-lg bg-black text-white hover:bg-gray-800 transition-colors dark:bg-white dark:text-black dark:hover:bg-gray-200"
+    >Vamos Jogar!</a>
     <label for="toggle" class="px-6 py-4 rounded-full font-semibold text-lg bg-black text-white hover:bg-gray-800 transition-colors dark:bg-white dark:text-black dark:hover:bg-gray-200">Vamos Jogar!</label>
     <input type="checkbox" id="toggle" class="visually-hidden">
   {{ end }}
