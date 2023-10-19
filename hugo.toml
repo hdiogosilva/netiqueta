@@ -1,0 +1,61 @@
+theme = "showfolio"
+languageCode = "pt"
+baseurl = "https://example.com"
+title = "É Bué Fixe Ser Fixe Online"
+
+
+[params]
+  name = "É Bué Fixe Ser Fixe Online"
+  description = "Vem descobrir como É Bué Fixe Ser Fixe Online"
+  author = "Equipa Minerva"
+  authorEmail = "contact@hdsilva.pt"
+  authorImage = "/avatar.png"
+  autoDarkMode = true
+
+  copyright = "Equipa Minerva"
+  favicon = "favicon.ico"
+
+[params.homepage]
+  title = ""
+  tagline = "Vem descobrir como"
+  tagline2 = "É Bué Fixe Ser Fixe Online"
+  description = ""
+  contact = "#"
+# 
+# [params.homepage.codepen]
+#   username = "apvarun"
+#   pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
+# 
+# [params.homepage.resume]
+#   skills = ["Visual Design", "Product Development"]
+# 
+# [[params.homepage.resume.work]]
+#   name = "Google"
+#   role = "Product Engineer"
+#   duration = "Nov 2019 - Apr 2021"
+
+# [[params.homepage.resume.work]]
+#   name = "Amazon"
+#   role = "Sr. UX Designer"
+#   duration = "Jan 2016 - Oct 2019"
+# 
+# [[params.homepage.resume.courses]]
+#   name = "Design Principles"
+#   provider = "UX Academy"
+#   duration = "Nov 2019 - Jan 2020"
+# 
+# [params.homepage.social]
+#   twitter = "https://twitter.com/"
+#   linkedin = "https://linkedin.com/in/"
+#   github = "https://github.com/"
+#   medium = "https://medium.com/"
+#   reddit = "https://reddit.com/"
+#   dribbble = "https://dribbble.com/"
+# 
+# [build]
+#   writeStats = true
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"

@@ -1,0 +1,37 @@
+/* Tailwind base - put variables under: tailwind.config.js */
+@import "node_modules/tailwindcss/base";
+/* Tailwind component classes registered by plugins*/
+@import "node_modules/tailwindcss/components";
+/* Site Specific */
+@import "assets/css/site";
+/* Tailwind's utility classes - generated based on config file */
+@import "node_modules/tailwindcss/utilities";
+
+ 
+.custom_font {
+    margin-top: 20px;
+    font-family: 'Silkscreen', sans-serif;
+    color: #10618B
+}
+
+label {
+    background: #A5D6A7;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.jogo {
+    margin-top: 40px;
+    display: none;
+}
+
+.visually-hidden {
+    position: absolute;
+    left: -100vw;
+}
+
+/* Toggled State */
+
+#toggle:checked ~ .jogo {
+    display: block;
+}
