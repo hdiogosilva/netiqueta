@@ -4,13 +4,13 @@
 
 **É Bué Fixe Ser Fixe Online**,  
 _roughly_ translated to "It's Super Cool to Be Cool Online",  
-its an educational game targetting Portuguese children between the ages of 8 and 10.
+it's an educational game targeting Portuguese children between the ages of 8 and 10.
 
-We think netiquete is an important topic and our goal is to show kids how _beeing cool online_ can be cool!
+Netiquette is an important topic, and our goal is to show kids how _being cool online_ can be cool!
 
-It came together as a results of the [Hackathon in Digital Communication and Literacy](https://www.hackathonpractices.com/) promoted EUGLOH and U.Porto.
+It came together as a result of the [Hackathon in Digital Communication and Literacy](https://www.hackathonpractices.com/) promoted EUGLOH and U.Porto.
 
-Whether you wanna get to know more about the project or just play the game, you've come to the right place!
+Whether you want to learn more about the project or just play the game, you've come to the right place!
 
 ## Vamos Começar! (_Let's Get Started!_)
 

@@ -14,10 +14,10 @@ Whether you wanna get to know more about the project or just play the game, you'
 
 ## Vamos Começar! (_Let's Get Started!_)
 
-(Please note that _currently_ the game is only in Portuguese and only optimized for playing on a desktop browser)
-
 [:fontawesome-solid-play: Play the Game](jogo/){ .md-button .md-button--secondary }
 [:fontawesome-solid-box: Documentation](documentation){ .md-button .md-button--primary }
+
+(Please note that _currently_ the game is only in Portuguese and only optimized for playing on a desktop browser)
 
 ![Avatar 01](img/characters/avatar_01.png){ width="200" }
 ![Avatar 02](img/characters/avatar_02.png){ width="200" }
