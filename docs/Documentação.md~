@@ -1,0 +1,25 @@
+# Documentação
+
+![É Bué Fixe Ser Fixe Online](img/avatar.png){ width="300" }
+
+## The Concept
+
+<object data="/pitch.pdf" type="application/pdf" width="90%" height="500px">
+<p>Unable to display the PDF file. You can try and<a href="/pitch.pdf">download it instead</a> instead.</p></object>
+
+## Game Development
+
+With the _Problem_, _Target Audience_, _Message_ and _Insight_ thoroughly defined in the initial phase of the hackathon the team could now delve deeper into developing a prototype of the game to further show its potential!
+
+### Game Mechanics
+
+![Avatars](img/develope/avatars.jpg){ width="500" }
+
+![Labyrinth](img/develope/labyrinth.jpg){ width="500" }
+
+
+### Game Assets
+
+![Avatar 01](img/characters/avatar_01.png){ width="300" }
+![Avatar 02](img/characters/avatar_02.png){ width="300" }
+![Avatar 03](img/characters/avatar_03.png){ width="300" }

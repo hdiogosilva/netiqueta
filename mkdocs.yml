@@ -1,0 +1,31 @@
+site_name: Netiqueta
+theme:
+  language: en
+  name: material
+  favicon: img/favicon-32x32.png
+  logo: img/favicon-32x32.png
+  features:
+    - navigation.sections
+    - toc.integrate
+
+plugins: []
+
+markdown_extensions:
+  - footnotes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
